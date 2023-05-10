@@ -1,0 +1,29 @@
+===-----Business Expenses-----===
+
+---Operating Costs---
+Rent: $26734.0
+Accounting and Legal Fees: $436278.0
+Bank Charges: $874326.0
+Sales Fees: $324786.0
+Marketing Fees: $34728.0
+Officce Supplies: $247368.0
+Repairs: $43762.0
+Utilities: $0
+
+---Employees Salaries---
+REP: $4322.0
+po: $212324345.0
+plplp: $3244.0
+
+---Product Costs---
+lop: $321524.0
+dsdsfhf: $236784.0
+
+-----REVENUE-----
+2000000000.0
+
+-----Operating Expenses-----
+214878201.0
+
+-----NET INCOME-----
+1785121799.0
